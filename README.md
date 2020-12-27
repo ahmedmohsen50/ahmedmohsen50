@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/ahmedmohsen50/ahmedmohsen50.svg)](http://hits.dwyl.com/ahmedmohsen50/ahmedmohsen50)
+
 Gist about me 
 
 - 🔭 I am a passonate site reliability engineer and Backend developer
