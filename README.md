@@ -20,6 +20,3 @@ Gist about me
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmohsen50&show_icons=true&locale=en" alt="ahmedmohsen50" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohsen50&" alt="ahmedmohsen50" /></p>
-
-
