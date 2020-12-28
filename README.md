@@ -1,6 +1,7 @@
-### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/ahmedmohsen50/ahmedmohsen50.svg)](http://hits.dwyl.com/ahmedmohsen50/ahmedmohsen50)
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohsen50&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohsen50" /> </p>
+
 
 Gist about me 
 
@@ -9,10 +10,7 @@ Gist about me
 - 👯 I’m always looking for challenging work oppurtunities ahead.
 - ⚡ I try to: Go beyond and push the bounds
 -->
-Languages and Tools:
 
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohsen50&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohsen50" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
