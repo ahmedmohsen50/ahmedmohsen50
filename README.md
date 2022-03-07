@@ -3,14 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohsen50&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohsen50" /> </p>
 
 
-Gist about me 
-
-- 🌱  Learning everyday, currently learning to master GraphQL, springboot, TS etc ..
-- 👯 I’m always looking for challenging work oppurtunities ahead.
-- ⚡ I try to: Go beyond and push the bounds
--->
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
